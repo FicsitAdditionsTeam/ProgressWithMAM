@@ -2,12 +2,11 @@
 
 ## Currently included:
 
-* Tier 1-5
+* Tier 1-6
 * Placeholder Icons
 
 ## TODO:
 
-* Tier 6
 * Tier 7
 * Tier 8
 * Beg Deantento for better icons
@@ -15,3 +14,5 @@
 ## Bugs:
 * Relog required after phase advancement
 * Tier 1 and Tier 2 Trees are weirdly positioned
+* Tier 5 and 6 finish node shows up too early
+* All tiers finish node is completeable before all rows are completed
