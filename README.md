@@ -14,5 +14,4 @@
 ## Bugs:
 
 * Relog required after phase advancement
-* Tier 5 and 6 finish node shows up too early
 * All tiers finish node is completeable before all rows are completed
