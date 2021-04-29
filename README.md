@@ -13,4 +13,3 @@
 
 * Relog required after phase advancement
 * All tiers finish node is completeable before all rows are completed
-* Tier 7 and Tier 8 show Tier 2 and Tier 6 nodes
