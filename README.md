@@ -3,11 +3,7 @@
 ## Currently included:
 
 * Tier 1-8
-* Placeholder Icons
-
-## TODO:
-
-* Beg Deantento for better icons
+* Icons
 
 ## Bugs:
 
